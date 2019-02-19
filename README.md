@@ -7,6 +7,20 @@
 
 > 很高兴不认识你
 
+### 用这个网页来扩展词汇量
+https://github.com/uwci/tianpeng/blob/master/README.md 更新本页
+
+### 动物的词汇
+ 把扫描的图片全部保存到到图床上面
+ ![](https://ws1.sinaimg.cn/large/87289425ly1g0c5aqeloaj209305ngli.jpg)
+ <br/><hr>
+ 
+ 
+
+### 
+
+
+
 <div align="center">
   <strong>
      基于 <a href="https://vuepress.vuejs.org/">VuePress</a> 构建的blog: https://wyydsb.xin
